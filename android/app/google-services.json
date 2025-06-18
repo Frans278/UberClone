@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "402309682497",
+    "firebase_url": "https://usersapp-a7452-default-rtdb.firebaseio.com",
+    "project_id": "usersapp-a7452",
+    "storage_bucket": "usersapp-a7452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402309682497:android:af9ae515fb5f90590e7dc0",
+        "android_client_info": {
+          "package_name": "com.frans.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyxJBI4AvouDL116YMg8dqvj7pFgXvtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402309682497:android:4f40076e03b12f3d0e7dc0",
+        "android_client_info": {
+          "package_name": "com.frans.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyxJBI4AvouDL116YMg8dqvj7pFgXvtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
